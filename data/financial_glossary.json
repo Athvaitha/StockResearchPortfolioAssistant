@@ -1,0 +1,65 @@
+[
+  {
+    "id": "pe_ratio",
+    "topic": "Price to Earnings Ratio (P/E)",
+    "category": "Fundamentals",
+    "content": "The Price-to-Earnings (P/E) ratio measures a company's current share price relative to its per-share earnings. A P/E of 35 means investors are paying ₹35 for every ₹1 of annual profit generated. High P/E ratios often indicate high future growth expectations or overvaluation, whereas lower P/E ratios may suggest undervaluation or market concerns about future earnings.",
+    "source": "SEBI Investor Education Manual - Fundamental Analysis"
+  },
+  {
+    "id": "pb_ratio",
+    "topic": "Price to Book Ratio (P/B)",
+    "category": "Fundamentals",
+    "content": "The Price-to-Book (P/B) ratio compares a firm's market value to its book value (assets minus liabilities). A P/B under 1.0 can indicate that a stock is undervalued or that the company has severe fundamental troubles.",
+    "source": "BSE Institute Financial Glossary"
+  },
+  {
+    "id": "debt_to_equity",
+    "topic": "Debt-to-Equity Ratio (D/E)",
+    "category": "Fundamentals",
+    "content": "The Debt-to-Equity ratio measures a company's total financial leverage by dividing total liabilities by shareholder equity. A high D/E ratio indicates that a company is aggressively financing growth with debt, which increases financial risk during downturns. Ratios below 1.0 are generally considered prudent for non-financial firms.",
+    "source": "SEBI Investor Guide - Risk Assessment"
+  },
+  {
+    "id": "roe",
+    "topic": "Return on Equity (ROE)",
+    "category": "Fundamentals",
+    "content": "Return on Equity (ROE) measures how efficiently a company's management is using shareholders' capital to generate net income. ROE = Net Income / Shareholder Equity. An ROE above 15% is generally seen as strong capital efficiency.",
+    "source": "NSE Academy Financial Literacy"
+  },
+  {
+    "id": "beta",
+    "topic": "Beta Coefficient & Systematic Risk",
+    "category": "Risk Analysis",
+    "content": "Beta measures a stock's sensitivity to broader market movements (e.g. Nifty 50 or S&P 500). A Beta of 1.0 moves in tandem with the index. Beta > 1.0 means higher volatility than the market (e.g., Beta = 1.4 implies 40% higher swings). Beta < 1.0 indicates lower volatility and defensive stability.",
+    "source": "SEBI Investor Handbook - Understanding Risk"
+  },
+  {
+    "id": "volatility",
+    "topic": "Annualized Volatility & Standard Deviation",
+    "category": "Risk Analysis",
+    "content": "Volatility measures the dispersion of returns for a given security or portfolio over a standard time period (e.g. 1 year). Higher annualized standard deviation means wider price fluctuations, representing higher uncertainty.",
+    "source": "NSE Risk Management Framework"
+  },
+  {
+    "id": "portfolio_concentration",
+    "topic": "Portfolio Concentration & Diversification",
+    "category": "Risk Analysis",
+    "content": "Concentration risk arises when a portfolio holds a heavy percentage in a few stocks or single sector. According to SEBI investor education guidelines, allocating more than 20-30% of a portfolio to a single stock creates high firm-specific risk. Diversification across uncorrelated sectors reduces non-systematic risk.",
+    "source": "SEBI Investor Education Guidelines"
+  },
+  {
+    "id": "news_sentiment",
+    "topic": "News Sentiment & Market Perception",
+    "category": "Sentiment Analysis",
+    "content": "News sentiment reflects short-term market perception based on earnings releases, management commentary, regulatory announcements, and macroeconomic events. Positive sentiment can drive short-term price momentum, but must be cross-verified with underlying fundamental financial health.",
+    "source": "Financial Market Sentiment Principles"
+  },
+  {
+    "id": "sebi_disclaimer_rule",
+    "topic": "SEBI Educational & Advisory Guidelines",
+    "category": "Regulatory",
+    "content": "Retail research tools and educational assistants must provide balanced data analysis without giving actionable buy, sell, or price target advice. All analytical outputs must highlight parameters, historical context, data timestamps, and clear disclaimers that notes are for educational inquiry only.",
+    "source": "SEBI Research Analyst Regulations"
+  }
+]
